@@ -47,7 +47,7 @@ Kelas   : TI.2.A.4
 
 - *File langkah dia atas ada* [disini](home.html)
 
-- [Output](https://github.com/NurAkbarr/Lab4web/tree/d78a6bcee15db4ac36d8a868fe0d57d1150a9f13/img)
+- [Output](https://github.com/MhmmdFarhanFahrezza/lab4web/tree/afed15f0e014be3ba56c4352b788f237be6a3778/img)
 
 ## **Pertanyaan dan Tugas**
 
